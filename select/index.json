@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "難しい",
+  "base_artist": "kanekoayano",
+  "createdAt": "2026-02-09T14:44:36.021657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "難しい",
+      "artist": "kanekoayano",
+      "has_synced": true,
+      "path": "select/01_難しい_kanekoayano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "難しい",
+      "artist": "kanekoayano",
+      "has_synced": false,
+      "path": "select/pl_01_難しい_kanekoayano.txt"
+    }
+  ]
+}
